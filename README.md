@@ -53,11 +53,9 @@ A simple and lightweight **lead management Chrome extension** that helps you **s
 Here’s a look at the Leads Tracker Chrome extension in action:
 
 ![Popup UI](https://github.com/stym01/Leads-Tracker/blob/master/Screenshots/1.%20Home.png)
-![Adding a Lead](https://github.com/stym01/Leads-Tracker/blob/master/Screenshots/2.%20Saving%20the%20opened%20tab%20URL.png)
-![Saved Links Display](https://github.com/stym01/Leads-Tracker/blob/master/Screenshots/3.%20Writing%20Input%20and%20saving%20the%20input.png)
 
 
-![Leads Tracker Demo Video](https://github.com/stym01/Leads-Tracker/blob/master/demo.mp4)
+[Leads Tracker Demo Video](https://github.com/stym01/Leads-Tracker/blob/master/demo.mp4)
 
 ---
 
