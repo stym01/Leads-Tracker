@@ -75,10 +75,10 @@ Here’s a look at the Leads Tracker Chrome extension in action:
 
 ## 🌟 What's Next?
 
-- [ ] Add tagging or folder support  
-- [ ] Enable export to CSV or Google Sheets  
-- [ ] Sync with cloud or Google account  
-- [ ] Add dark mode option  
+- Add tagging or folder support  
+- Enable export to CSV or Google Sheets  
+- Sync with cloud or Google account  
+- Add dark mode option  
 
 ---
 
