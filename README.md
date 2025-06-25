@@ -48,7 +48,8 @@ A simple and lightweight **lead management Chrome extension** that helps you **s
 
 ## 📸 Preview
 
-![Leads Tracker Screenshot](https://github.com/stym01/Leads-Tracker/blob/master/demo.mp4)
+![Leads Tracker Screenshots](https://github.com/stym01/Leads-Tracker/tree/master/Screenshots)
+![Leads Tracker Demo Video](https://github.com/stym01/Leads-Tracker/blob/master/demo.mp4)
 
 ---
 
